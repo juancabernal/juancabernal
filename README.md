@@ -113,5 +113,5 @@ I'm open to learning opportunities, academic collaboration and software developm
 
 * GitHub: [github.com/juancabernal](https://github.com/juancabernal)
 * LinkedIn: [linkedin.com/in/juan-camilo-bernal](https://www.linkedin.com/in/juan-camilo-bernal)
-* ORCID: [TU-ORCID-ID](https://orcid.org/0009-0008-5419-6025)
+* ORCID: [0009-0008-5419-6025](https://orcid.org/0009-0008-5419-6025)
 * Email: [juancamilobernal2222@gmail.com](mailto:juancamilobernal2222@gmail.com)
