@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juan Camilo Bernal 👋</h1>
+<h1 align="center">Hi, I'm Juan Camilo Bernal </h1>
 
 <p align="center">
   Software Engineering student focused on full stack development, software architecture, web applications and applied AI projects.
