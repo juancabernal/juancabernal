@@ -9,6 +9,8 @@
   ·
   <a href="https://www.linkedin.com/in/juan-camilo-bernal">LinkedIn</a>
   ·
+  <a href="https://orcid.org/TU-ORCID-ID">ORCID</a>
+  ·
   <a href="mailto:juancamilobernal2222@gmail.com">Email</a>
 </p>
 
@@ -110,5 +112,6 @@ Applied AI/data project focused on cattle counting using a hybrid detection-base
 I'm open to learning opportunities, academic collaboration and software development projects.
 
 * GitHub: [github.com/juancabernal](https://github.com/juancabernal)
-* LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/juan-camilo-bernal)
-* Email: [TU-CORREO@EMAIL.COM](mailto:juancamilobernal2222@gmail.com)
+* LinkedIn: [linkedin.com/in/juan-camilo-bernal](https://www.linkedin.com/in/juan-camilo-bernal)
+* ORCID: [TU-ORCID-ID](https://orcid.org/0009-0008-5419-6025)
+* Email: [juancamilobernal2222@gmail.com](mailto:juancamilobernal2222@gmail.com)
