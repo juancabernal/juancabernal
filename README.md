@@ -9,11 +9,10 @@
   ·
   <a href="https://www.linkedin.com/in/juan-camilo-bernal">LinkedIn</a>
   ·
-  <a href="https://orcid.org/TU-ORCID-ID">ORCID</a>
+  <a href="https://orcid.org/0009-0008-5419-6025">ORCID</a>
   ·
   <a href="mailto:juancamilobernal2222@gmail.com">Email</a>
 </p>
-
 ---
 
 ## About me
