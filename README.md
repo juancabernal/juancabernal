@@ -1,119 +1,66 @@
-<h1 align="center">Hi, I'm Juan Camilo Bernal </h1>
+<img src="assets/banner.png" alt="Software architecture, microservices and machine learning" width="100%" />
+
+<h1 align="center">Juan Camilo Bernal</h1>
 
 <p align="center">
-  Software Engineering student focused on full stack development, software architecture, web applications and applied AI projects.
+  Systems Engineering student at <b>UCO</b> · Software Developer at <b>Tradia</b><br/>
+  Software architecture, microservices and applied machine learning
 </p>
 
 <p align="center">
-  <a href="https://github.com/juancabernal">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/juan-camilo-bernal">LinkedIn</a>
-  ·
-  <a href="https://orcid.org/0009-0008-5419-6025">ORCID</a>
-  ·
-  <a href="mailto:juancamilobernal2222@gmail.com">Email</a>
-</p>
----
-
-## About me
-
-I'm a Software Engineering student at Universidad Católica de Oriente, interested in building reliable, well-documented and scalable software solutions.
-
-My work includes backend services, frontend applications, software architecture documentation, API integration, academic software projects and applied AI/data solutions.
-
-I enjoy working on projects where software has a clear purpose: solving real problems, improving processes and connecting technical decisions with user needs.
-
----
-
-## Tech stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-
-
-### Backend & APIs
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-111827?style=for-the-badge)
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-
-### Tools & practices
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-4B5563?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Documentation-2563EB?style=for-the-badge)
-
----
-
-## Featured projects
-
-### TerraXs — Software architecture and backend ecosystem
-
-Architecture documentation and backend-related work for a marketplace-style software system.
-
-**Focus:** quality attributes, architectural drivers, backend design, system documentation and technical decision-making.
-
-### EatUp — Microservices-based application
-
-Academic software project built around a microservices architecture.
-
-**Focus:** backend services, Git workflow, API organization and collaborative development.
-
-### Payment Frontend Module
-
-Frontend development guide for a payment module using Angular, modular architecture, environment configuration and lazy-loaded routes.
-
-**Focus:** frontend architecture, reusable components, services and development workflow.
-
-### Cattle Counting with UAV
-
-Applied AI/data project focused on cattle counting using a hybrid detection-based and density-based approach.
-
-**Focus:** computer vision, applied models and real-world problem solving.
-
----
-
-## What I'm currently improving
-
-* Backend development with Java and Spring Boot
-* REST API design and documentation
-* Software architecture and quality attributes
-* Frontend development with Angular
-* Applied AI and computer vision projects
-* Clean Git workflows and professional project documentation
-
----
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juancabernal&show_icons=true&hide_border=true" alt="Juan Camilo Bernal GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancabernal&layout=compact&hide_border=true" alt="Most used languages" />
+  <a href="https://www.linkedin.com/in/juan-camilo-bernal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:juancamilobernal2222@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://orcid.org/0009-0008-5419-6025"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
 ---
 
-## Contact
+### About
 
-I'm open to learning opportunities, academic collaboration and software development projects.
+I design before I code. I care about clean boundaries, well-justified technical decisions and software that is easy to change: Clean Architecture, hexagonal design, microservices and event-driven systems, backed by SOLID, DDD and Attribute-Driven Design.
 
-* GitHub: [github.com/juancabernal](https://github.com/juancabernal)
-* LinkedIn: [linkedin.com/in/juan-camilo-bernal](https://www.linkedin.com/in/juan-camilo-bernal)
-* ORCID: [0009-0008-5419-6025](https://orcid.org/0009-0008-5419-6025)
-* Email: [juancamilobernal2222@gmail.com](mailto:juancamilobernal2222@gmail.com)
+- **Now:** Software Developer at Tradia, an accounting ERP, rotating across the security, sales, inventory, accounting and receivables modules.
+- **Research:** hybrid model to count cattle from drone images (detection + density estimation), selected for the RedCOLSI National Meeting.
+- **Learning:** Go, from scratch.
+
+GPA 4.74 / 5.0 · Highest GPA in the university (2023-1, 2023-2) and in the program (2024-1) · English B2
+
+---
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,go,ts,js,spring,angular,react&theme=dark" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,docker,azure,githubactions,vercel&theme=dark" alt="Data, messaging and cloud" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,grafana,git,figma&theme=dark" alt="ML, observability and tools" />
+</p>
+
+---
+
+### Featured work
+
+| Project | What it is | Built with |
+|---|---|---|
+| **EatUp** | Restaurant management system built on microservices by a 14-person team. I owned suppliers and sales: table orders, inventory queues and kitchen hand-off. | RabbitMQ, PostgreSQL (Neon), Render, Vercel |
+| **UcoChallenge** | Project baseline with Clean and Hexagonal Architecture, Auth0, Azure Key Vault, a hand-built WAF and API Gateway, Grafana tracing and CI/CD. | Java, PostgreSQL, Docker, GitHub Actions |
+| **TerraXs** | Architecture documentation for an agricultural marketplace using ADD and DDD: 30+ quality scenarios and an event-driven design. | Redis, Socket.IO, React, Auth0 |
+| **Cattle Counting with UAV** | Hybrid detection-based and density-based model for high-density farms. | PyTorch, TensorFlow, OpenCV, YOLO |
+| **Payment Frontend Module** | Modular Angular payment module with lazy-loaded routes and environment-based configuration. | Angular, TypeScript |
+
+---
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juancabernal/juancabernal/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/juancabernal/juancabernal/main/profile-summary-card-output/github/3-stats.svg" height="170" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juancabernal/juancabernal/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/juancabernal/juancabernal/main/profile-summary-card-output/github/2-most-commit-language.svg" height="170" alt="Most committed languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juancabernal/juancabernal/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/juancabernal/juancabernal/output/github-snake.svg" width="100%" alt="Contribution graph" />
+</picture>
